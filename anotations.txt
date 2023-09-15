@@ -1,0 +1,12 @@
+- Geração Estática é o método de pré-renderização que gera o HTML no momento
+da construção. O HTML pré-renderizado é então reutilizado em cada 
+solicitação.
+
+
+- A renderização do lado do servidor é o método de pré-renderização que gera 
+o HTML em cada solicitação .
+
+
+# Quando utilizar Geração Estática e Renderização do Lado do Servidor ?
+
+Você deve se perguntar: "Posso pré-renderizar esta página antes da solicitação do usuário?" Se a resposta for sim, você deve escolher Geração Estática .
