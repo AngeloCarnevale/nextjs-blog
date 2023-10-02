@@ -1,0 +1,5 @@
+node_modules/
+anotations.txt
+.next
+*.md
+.git
